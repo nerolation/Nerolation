@@ -10,7 +10,6 @@
 - 🔭 I’m working at [Institute of Distributed Ledger and Token Economy (TECON)](https://www.wu.ac.at/en/tecon/team) in Vienna.
 -  :neckbeard: I'm a Passionate Data Scientist
 - 🌱 I’m doing Research on Bitcoin and Ethereum Privacy
-- 🐝 I’m Liberitarian
 - :panda_face: I’m Privacy Maximalist
 
 
