@@ -67,8 +67,8 @@
 <a href="https://github.com/Nerolation/zk-PoA-Tokens">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Nerolation&repo=zk-PoA-Tokens&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" />
 </a>
-<a href="https://github.com/Nerolation/python-bitcoin-blockchain-parser">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Nerolation&repo=python-bitcoin-blockchain-parser&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" />
+<a href="https://github.com/Nerolation/python-bitcoin-scraper">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Nerolation&repo=python-bitcoin-scraper&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" />
 </a>
 
 
