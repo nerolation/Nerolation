@@ -6,11 +6,11 @@
 ---
 
 ## ⚡ Some quick facts
-- 🇦🇹 I'm living in Vienna, Austria
-- 🔭 I’m working at [Institute of Distributed Ledger and Token Economy (TECON)](https://www.wu.ac.at/en/tecon/team) in Vienna.
--  :neckbeard: I'm a Passionate Data Scientist
-- 🌱 I’m doing Research on Bitcoin and Ethereum Privacy
-- :panda_face: I like Privacy 
+- 🇦🇹 I'm living in Vienna, Austria.
+- 🔭 I’m working at [Institute of Distributed Ledger and Token Economy (TECON)](https://www.wu.ac.at/en/tecon/team).
+-  :neckbeard: I'm a Passionate Data Scientist.
+- 🌱 I’m doing Research on Bitcoin and Ethereum.
+- :panda_face: Privacy is key
 
 
 
@@ -57,8 +57,8 @@
 <a href="https://github.com/Nerolation/Eth-Leverage-Wallet">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Nerolation&repo=Eth-Leverage-Wallet&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" />
 </a>
-<a href="https://github.com/Nerolation/EIP0000">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Nerolation&repo=EIP0000&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" />
+<a href="https://github.com/Nerolation/EIP-ERC721-zk-SNARK-Extension">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Nerolation&repo=EIP-ERC721-zk-SNARK-Extension&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" />
 </a>
 <a href="https://github.com/Nerolation/ethereum-datafarm">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Nerolation&repo=ethereum-datafarm&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" />
