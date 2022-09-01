@@ -10,7 +10,7 @@
 - 🔭 I’m working at [Institute of Distributed Ledger and Token Economy (TECON)](https://www.wu.ac.at/en/tecon/team).
 -  :neckbeard: I'm a Passionate Data Scientist.
 - 🌱 I’m doing Research on Bitcoin and Ethereum.
-- :panda_face: Privacy is key
+- :panda_face: Privacy is key.
 
 
 
@@ -18,13 +18,12 @@
 
 
 ## :star2: I may help with...
-![image](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![image](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-![image](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)
 ![image](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
+![image](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
+![image](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)
 ![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![image](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
@@ -65,6 +64,11 @@
 
 <a href="https://github.com/Nerolation/ethereum-datafarm">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Nerolation&repo=ethereum-datafarm&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" />
+</a>
+
+
+<a href="https://github.com/Nerolation/EIP-Stealth-Address-ERC">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Nerolation&repo=EIP-Stealth-Address-ERC&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" />
 </a>
 
 <a href="https://github.com/Nerolation/zk-PoA-Tokens">
