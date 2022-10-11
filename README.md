@@ -1,4 +1,4 @@
-# Hi there, I'm Tony 👋
+# Hi there, I'm Toni 👋
 [![LinkedIn Badge](https://img.shields.io/badge/Personal%20Website-%20-lightgrey?color=1CA2F1)](https://www.toniwahrstaetter.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=1CA2F1)](https://www.linkedin.com/in/anton-wahrst%C3%A4tter-b69317159/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Nero_ETH)
