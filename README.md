@@ -10,7 +10,7 @@
 - 🔭 I’m working at [Institute of Distributed Ledger and Token Economy (TECON)](https://www.wu.ac.at/en/tecon/team).
 -  :neckbeard: I'm a Passionate Data Scientist.
 - 🌱 I’m doing Research on Bitcoin and Ethereum.
-- :panda_face: Privacy is key.
+- :panda_face: Censorship-resistance is key.
 
 
 
