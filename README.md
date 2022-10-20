@@ -40,7 +40,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nerolation&show_icons=true&locale=en&theme=graywhite&include_all_commits=true&count_private=true" alt="nerolation" /></p>
 
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=nerolation&show_icons=true&locale=en&layout=compact" alt="nerolation" align="center"  /></p>
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=nerolation&show_icons=true&locale=en&layout=compact&hide=HTML,jupyter%20notebook" alt="nerolation" align="center"  /></p>
 
 
 
