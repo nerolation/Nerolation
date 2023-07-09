@@ -7,10 +7,10 @@
 
 ## ⚡ Some quick facts
 - 🇦🇹 I'm living in Vienna, Austria.
-- 🔭 I’m working at [Institute of Distributed Ledger and Token Economy (TECON)](https://www.wu.ac.at/en/tecon/team).
+- 🔭 I’m working as a researcher at [Ethereum Foundation](https://github.com/ethereum) and [Institute of Distributed Ledger and Token Economy (TECON)](https://www.wu.ac.at/en/tecon/team).
 -  :neckbeard: I'm a passionate Data Scientist.
 - 🌱 I’m doing research on Bitcoin and Ethereum.
-- :panda_face: Censorship-resistance is key.
+- :panda_face: Privacy is key.
 
 
 
